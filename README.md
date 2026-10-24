@@ -95,9 +95,6 @@ kishansetu-procurement-portal/
    ```
 
 ---
+kissan-setu-2-hrz2qemej-agrix2.vercel.app
 
-## 🏆 Hackathon Impact
-
-KishanSetu empowers rural farmers by drastically reducing mandi wait times, ensuring 100% MSP realization through direct PFMS bank clearance, and providing precise GPS location tracking for procurement centres.
-
-https://navy-slate-92157405.figma.site
+kisssan
