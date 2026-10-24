@@ -96,6 +96,3 @@ kishansetu-procurement-portal/
 
 ---
 
-kissan-setu-2-hrz2qemej-agrix2.vercel.app
-
-kissan-setu-2.vercel.app
