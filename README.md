@@ -1,6 +1,6 @@
 # 🌾 KishanSetu — Smart Direct Procurement Gateway & GPS Tracker
 
-> **Hackathon Finals Submission** | Direct Farmer-to-Mandi Procurement System with Real-Time Google Location GPS Tracking & Instant PFMS MSP Settlement.
+>  Direct Farmer-to-Mandi Procurement System with Real-Time Google Location GPS Tracking & Instant PFMS MSP Settlement.
 
 ---
 
